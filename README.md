@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+## Finantics
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+It is a web app showcasing login auth flow and a dashboard visualization, as part of the Next.js' course.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
